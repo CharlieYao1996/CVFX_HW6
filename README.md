@@ -26,8 +26,10 @@
   
   # 6.Insert a 3D model to your video
   
+  | output1-1        |[![](http://img.youtube.com/vi/eEKa6103t0A/0.jpg)](http://www.youtube.com/watch?v=eEKa6103t0A "")       | 
+  | :-------------: |:-------------:| 
+  | orign1-2        | [![](http://img.youtube.com/vi/aKZJNS_WkwM/0.jpg)](http://www.youtube.com/watch?v=aKZJNS_WkwM "")       |
   
-  [![](http://img.youtube.com/vi/aKZJNS_WkwM/0.jpg)](http://www.youtube.com/watch?v=aKZJNS_WkwM "")
 
   
 
