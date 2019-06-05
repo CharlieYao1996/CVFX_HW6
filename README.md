@@ -1,5 +1,5 @@
 # CVFX_HW6
-  #### Please click on the photo to enter the video
+ Please click on the photo to enter the video
   # 1.Take videos
   
   | orign_1        | orign_2        | orign_3  |
