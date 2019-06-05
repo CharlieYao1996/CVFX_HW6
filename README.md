@@ -29,7 +29,7 @@
   
 | ORB-SLAM2      | AE     | 
 | :-------------: |:-------------:| 
-| ![image](https://github.com/CharlieYao1996/CVFX_HW6/blob/master/screenshot.png?raw=true)       |![image](https://github.com/CharlieYao1996/CVFX_HW6/blob/master/ScreenShot_2.png?raw=true) |
+| ![image](https://github.com/CharlieYao1996/CVFX_HW6/blob/master/screenshot.png?raw=true)       |![image](https://github.com/CharlieYao1996/CVFX_HW6/blob/master/ScreenShot_3.png?raw=true) |
   
   
   可能是在操作上有些失誤或是我們對於ORB-SLAM2的操作還不熟悉，我們使用ORB-SLAM2所呈現的效果其實並不太好，可以看到加入的文字其實還是會跟著畫面浮動。
