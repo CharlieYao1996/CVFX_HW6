@@ -15,12 +15,19 @@
   
   # 3.Make these visual effects with any post-production software
   
+  
+  [![](http://img.youtube.com/vi/SIVMY_HNDyE/0.jpg)](http://www.youtube.com/watch?v=SIVMY_HNDyE "")
+  
+  [![](http://img.youtube.com/vi/gPdjCcPHROo/0.jpg)](http://www.youtube.com/watch?v=gPdjCcPHROo "")
+  
   # 4.Compare above methods
   
   # 5.Make some special effects based on the pose information
   
   # 6.Insert a 3D model to your video
   
+  
+  [![](http://img.youtube.com/vi/aKZJNS_WkwM/0.jpg)](http://www.youtube.com/watch?v=aKZJNS_WkwM "")
 
   
 
