@@ -16,10 +16,13 @@
   
   # 3.Make these visual effects with any post-production software
   
+  | output2-1        | output3-1     | 
+  | :-------------: |:-------------:| 
+  | [![](http://img.youtube.com/vi/gPdjCcPHROo/0.jpg)](http://www.youtube.com/watch?v=gPdjCcPHROo "")       |[![](http://img.youtube.com/vi/SIVMY_HNDyE/0.jpg)](http://www.youtube.com/watch?v=SIVMY_HNDyE "") |
   
-  [![](http://img.youtube.com/vi/SIVMY_HNDyE/0.jpg)](http://www.youtube.com/watch?v=SIVMY_HNDyE "")
   
-  [![](http://img.youtube.com/vi/gPdjCcPHROo/0.jpg)](http://www.youtube.com/watch?v=gPdjCcPHROo "")
+  
+  
   
   # 4.Compare above methods
   
@@ -29,7 +32,7 @@
   
   | output1-1        | [![](http://img.youtube.com/vi/aKZJNS_WkwM/0.jpg)](http://www.youtube.com/watch?v=aKZJNS_WkwM "")     | 
   | :-------------: |:-------------:| 
-  | orign1-2        |   [![](http://img.youtube.com/vi/eEKa6103t0A/0.jpg)](http://www.youtube.com/watch?v=eEKa6103t0A "")      |
+  | output1-2        |   [![](http://img.youtube.com/vi/eEKa6103t0A/0.jpg)](http://www.youtube.com/watch?v=eEKa6103t0A "")      |
   
 
   
