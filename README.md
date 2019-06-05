@@ -16,12 +16,12 @@
   
   # 3.Make these visual effects with any post-production software
   
-  | output2-1        | output3-1     | 
-  | :-------------: |:-------------:| 
-  | [![](http://img.youtube.com/vi/gPdjCcPHROo/0.jpg)](http://www.youtube.com/watch?v=gPdjCcPHROo "")       |[![](http://img.youtube.com/vi/SIVMY_HNDyE/0.jpg)](http://www.youtube.com/watch?v=SIVMY_HNDyE "") |
+ | output2-1         | output2-1        | output3-1     | 
+ | :-------------: | :-------------: |:-------------:| 
+ | [![](http://img.youtube.com/vi/eEKa6103t0A/0.jpg)](http://www.youtube.com/watch?v=eEKa6103t0A "") | [![](http://img.youtube.com/vi/gPdjCcPHROo/0.jpg)](http://www.youtube.com/watch?v=gPdjCcPHROo "")       |[![](http://img.youtube.com/vi/SIVMY_HNDyE/0.jpg)](http://www.youtube.com/watch?v=SIVMY_HNDyE "") |
   
   
-  
+我們這次使用AE來進行Match-Moving的實作，AE上有內建track camera的功能，我們簡單的利用此功能製作了上述效果，不過也許是因為影片拍攝時晃動過度，有些角度的track效果明顯的很差，所以我們擷取了部分效果較好的片段來進行操作，
   
   
   # 4.Compare above methods
