@@ -11,6 +11,8 @@
   
   # 2.Make these visual effects with ORB-SLAM2
   
+  ![image](https://github.com/CharlieYao1996/CVFX_HW6/blob/master/screenshot.png?raw=true)
+  
   # 3.Make these visual effects with any post-production software
   
   # 4.Compare above methods
