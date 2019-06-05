@@ -7,7 +7,7 @@
   
   >>
   
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/dLcWU2yw-xY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   
   # 2.Make these visual effects with ORB-SLAM2
   
