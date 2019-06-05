@@ -39,6 +39,7 @@
   | :-------------: |:-------------:| 
   | [![](http://img.youtube.com/vi/aKZJNS_WkwM/0.jpg)](http://www.youtube.com/watch?v=aKZJNS_WkwM "")        |   [![](http://img.youtube.com/vi/eEKa6103t0A/0.jpg)](http://www.youtube.com/watch?v=eEKa6103t0A "")      |
   
+  在手上加上了火焰特效，雖然還是有些許的浮動，但是看起來還不錯，不過因為origin_1拍的並沒有很好，背景人太多太雜，還有在影片開頭晃動幅度太大導致對焦不準確，導致影響到後面一連續的座標處理，不過因時間關係沒有再拍新影片，影片品質提升後效果應該會更好。
 
   
 
