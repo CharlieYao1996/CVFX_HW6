@@ -27,6 +27,11 @@
   
   # 4.Compare above methods
   
+| ORB-SLAM2      | AE     | 
+| :-------------: |:-------------:| 
+| ![image](https://github.com/CharlieYao1996/CVFX_HW6/blob/master/screenshot.png?raw=true)       |![image](https://github.com/CharlieYao1996/CVFX_HW6/blob/master/ScreenShot_2.png?raw=true) |
+  
+  
   可能是在操作上有些失誤或是我們對於ORB-SLAM2的操作還不熟悉，我們使用ORB-SLAM2所呈現的效果其實並不太好，可以看到加入的文字其實還是會跟著畫面浮動。
   在可控度以及多面向的操作上，AE還是比較直觀的能夠呈現我們想要的畫面。在有詳細內容UI的情形下，AE能夠提供我們的幫助相對機器學習來說更直接了。
   希望在繼續鑽研後我們也可以利用ORB-SLAM2做出跟AE一樣好甚至是更好的效果。
